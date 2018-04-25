@@ -267,6 +267,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.tecsup.edu.GitUseExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -279,6 +280,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.tecsup.edu.GitUseExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -301,6 +303,7 @@
 				5093A4D62091128700D62AFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
